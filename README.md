@@ -1,5 +1,5 @@
 #Assignment 1
-Student Grade Calculator
+Student Grade Calculator 📒
 A simple Python-based Student Grade Calculator that takes a student's name and marks for three subjects, then calculates the total marks, average marks, and final grade.
 📌 Features
 👤 Takes student's name as input
