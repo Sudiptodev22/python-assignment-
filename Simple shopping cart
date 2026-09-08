@@ -7,8 +7,7 @@ customer_name = input("Customer Name: ")
 product1_name = input("Product 1 Name: ")
 product1_price = float(input(f"Price of {product1_name}: "))
 
-product2
-_name = input("Product 2 Name: ")
+product2_name = input("Product 2 Name: ")
 product2_price = float(input(f"Price of {product2_name}: "))
 
 product3_name = input("Product 3 Name: ")
